@@ -22,6 +22,9 @@ We studied and compared the performance of 2 self-supervised contrastive learnin
 Examples
 
 ![image01](https://user-images.githubusercontent.com/25775552/127875958-444c64b6-9371-452e-829d-e84422f72b98.png)
+
+----------------------------------------------------------------------------
+
 ![image02](https://user-images.githubusercontent.com/25775552/127876148-0f2c85ee-d77f-4a85-9002-6dba7c487225.png)
 
 Some information about the images:
