@@ -1,5 +1,5 @@
 # MEng-Diploma-Thesis
-Diploma Thesis: "Transfer learning from supervised and unsupervised pre-trained convolutional neural networks for the recognition of skin lesions"
+Diploma Thesis: "Transfer learning from supervised and self-supervised contrastive learning methods for the recognition of skin lesions"
 
 Supervisor: Aristidis Likas
 
